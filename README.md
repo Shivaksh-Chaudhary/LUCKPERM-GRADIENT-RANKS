@@ -4,12 +4,8 @@
 It contains total of 13 Rank Model.
 
 ### 1. Default
-- ```
-prefix.1.&#A8FF78&lᴍ&#A0FF88&lᴇ&#98FF97&lᴍ&#90FFA7&lʙ&#88FFB7&lᴇ&#80FFC6&lʀ&#78FFD6&l&f
- ```
-- ```
-weight.1
-```
+- prefix.1.&#A8FF78&lᴍ&#A0FF88&lᴇ&#98FF97&lᴍ&#90FFA7&lʙ&#88FFB7&lᴇ&#80FFC6&lʀ&#78FFD6&l&f
+- weight.1
 
 ### 2. Friends
 - prefix.1.&#FFE259&lꜰ&#FFD657&lʀ&#FFCA56&lɪ&#FFBF54&lᴇ&#FFB353&lɴ&#FFA751&lᴅ&f
