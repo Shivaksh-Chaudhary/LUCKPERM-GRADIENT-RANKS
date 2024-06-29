@@ -56,4 +56,4 @@ It contains total of 13 Rank Model.
 
 ### 13. Owner 
 - prefix.100.&#DA22FF&lᴏ&#C926FB&lᴡ&#B92BF7&lɴ&#A82FF2&lᴇ&#9733EE&lʀ&f
--weight.13
+- weight.13
